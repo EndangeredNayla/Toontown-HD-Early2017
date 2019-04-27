@@ -1,0 +1,56 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x261C99B8>}
+__handleAvatarChooserDone: 100000036, 'Tom Bumberpop (Mod)', ('css', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 66, 27, 55, 27, 17, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_GS.pdna
+Reading DNA file... phase_6/dna/storage_GS_sz.pdna
+Reading DNA file... phase_6/dna/goofy_speedway_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/winter_storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+-----------Starting tailor interaction-----------
+avid: 100000036, gender: m
+current top = 66,27,55,27 and  bot = 17,27,
+topsList = [1, 1, 1, 1, 68, 27, 57, 27]
+bottomsList = [2, 11, 18, 27]
+-------------------------------------------------
+-----------ending tailor interaction-----------
+avid: 100000036, gender: m
+current top = 66,27,55,27 and  bot = 17,27,
+topsList = [1, 1, 1, 1, 68, 27, 57, 27]
+bottomsList = [2, 11, 18, 27]
+-------------------------------------------------
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna

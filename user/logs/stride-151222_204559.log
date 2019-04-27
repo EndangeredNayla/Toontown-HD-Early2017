@@ -1,0 +1,31 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16E73C38>}
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16E73C38>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16E73C38>}
+__handleAvatarChooserDone: 100000087, 'Tom Bumberpop', ('bss', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 8, 3, 8, 3, 2, 6), 1
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16E73C38>}
+__handleAvatarChooserDone: 100000087, 'Tom Bumberpop', ('bss', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 8, 3, 8, 3, 2, 6), 1
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16E73C38>}
+__handleAvatarChooserDone: 100000087, 'Tom Bumberpop', ('bss', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 8, 3, 8, 3, 2, 6), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16E73C38>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16E73C38>}

@@ -1,0 +1,129 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x27DCBC60>}
+__handleAvatarChooserDone: 100000044, 'Tom Bumberpop (Mod)', ('css', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 66, 27, 55, 27, 17, 27), 4
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_GZ.pdna
+Reading DNA file... phase_6/dna/storage_GZ_sz.pdna
+Reading DNA file... phase_6/dna/golf_zone_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_OZ.pdna
+Reading DNA file... phase_6/dna/storage_OZ_sz.pdna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.pdna
+TIMER startTime 596
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/winter_storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\speedchat\SCTerminal.py", line 90, in onMouseClick
+    self.handleSelect()
+  File "otp\speedchat\SCEmoteTerminal.py", line 97, in handleSelect
+    messenger.send(self.getEventName(SCEmoteMsgEvent), [self.emoteId])
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\chat\TTChatInputSpeedChat.py", line 474, in handleEmoteMsg
+    self.chatMgr.sendSCEmoteChatMessage(emoteId)
+  File "otp\chat\ChatManager.py", line 111, in sendSCEmoteChatMessage
+    base.talkAssistant.sendOpenSpeedChat(2, emoteId)
+  File "otp\chat\TalkAssistant.py", line 40, in sendOpenSpeedChat
+    base.localAvatar.b_setSCEmote(messageIndex)
+  File "otp\avatar\DistributedPlayer.py", line 233, in b_setSCEmote
+    self.b_setEmoteState(emoteId, animMultiplier=self.animMultiplier)
+  File "toontown\toon\DistributedToon.py", line 743, in b_setEmoteState
+    self.setEmoteState(animIndex, animMultiplier)
+  File "toontown\toon\DistributedToon.py", line 760, in setEmoteState
+    self.doEmote(animIndex, animMultiplier, ts, callback, extraArgs)
+  File "toontown\toon\Toon.py", line 2094, in doEmote
+    self.emoteTrack, duration = Emote.globalEmote.doEmote(self, emoteIndex, ts)
+  File "toontown\toon\TTEmote.py", line 497, in doEmote
+    track, duration, exitTrack = func(toon)
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\speedchat\SCTerminal.py", line 90, in onMouseClick
+    self.handleSelect()
+  File "otp\speedchat\SCEmoteTerminal.py", line 97, in handleSelect
+    messenger.send(self.getEventName(SCEmoteMsgEvent), [self.emoteId])
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\chat\TTChatInputSpeedChat.py", line 474, in handleEmoteMsg
+    self.chatMgr.sendSCEmoteChatMessage(emoteId)
+  File "otp\chat\ChatManager.py", line 111, in sendSCEmoteChatMessage
+    base.talkAssistant.sendOpenSpeedChat(2, emoteId)
+  File "otp\chat\TalkAssistant.py", line 40, in sendOpenSpeedChat
+    base.localAvatar.b_setSCEmote(messageIndex)
+  File "otp\avatar\DistributedPlayer.py", line 233, in b_setSCEmote
+    self.b_setEmoteState(emoteId, animMultiplier=self.animMultiplier)
+  File "toontown\toon\DistributedToon.py", line 743, in b_setEmoteState
+    self.setEmoteState(animIndex, animMultiplier)
+  File "toontown\toon\DistributedToon.py", line 760, in setEmoteState
+    self.doEmote(animIndex, animMultiplier, ts, callback, extraArgs)
+  File "toontown\toon\Toon.py", line 2094, in doEmote
+    self.emoteTrack, duration = Emote.globalEmote.doEmote(self, emoteIndex, ts)
+  File "toontown\toon\TTEmote.py", line 497, in doEmote
+    track, duration, exitTrack = func(toon)
+TypeError: 'NoneType' object is not iterable

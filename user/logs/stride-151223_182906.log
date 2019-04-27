@@ -1,0 +1,79 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{4200001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17A81C38>, 4300001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17A81AA8>, 401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17A81760>, 42000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17A81B98>}
+__handleAvatarChooserDone: 100000032, 'Tom Bumberpop', ('css', 'ls', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 54, 27, 67, 27, 45, 27), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/winter_storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+adjusting item index -1
+exiting due to lack of items
+Cannon Rot:-1.89303657966 Angle:27.9326936825
+start PosLPoint3f(-51.4853, -99.7309, 5.43238) HprLVecBase3f(-25.89, -17.07, 0)
+disable controls
+stopped
+enable controls
+Cannon Rot:-18.8487990462 Angle:34.3653554687
+Cannon Rot:-24.7051564353 Angle:39.1858860705
+Cannon Rot:-22.0712136244 Angle:36.0468035425
+start PosLPoint3f(58.811, 58.6362, 5.45298) HprLVecBase3f(149.13, -8.95001, 0)
+disable controls
+stopped
+enable controls
+Cannon Rot:-1.89 Angle:26.6833766171
+Cannon Rot:-1.89 Angle:31.9286845492
+start PosLPoint3f(-51.5765, -99.9189, 5.79533) HprLVecBase3f(-25.89, -13.07, 0)
+disable controls
+walk
+Cannon Rot:-4.38563166936 Angle:44.8493555831
+start PosLPoint3f(35.3763, 0.995604, 14.3535) HprLVecBase3f(96.81, -0.150009, -1.19395e-006)
+disable controls
+stopped
+enable controls
+Cannon Rot:21.7491408214 Angle:44.85
+Cannon Rot:27.4749237676 Angle:38.258527223
+start PosLPoint3f(35.9398, -1.77834, 13.5652) HprLVecBase3f(131.85, -9.98, 0)
+disable controls
+stopped
+enable controls
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+gardenPage Unloading

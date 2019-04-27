@@ -1,0 +1,12 @@
+id: 100000054
+class: Account
+fields:
+  ACCOUNT_AV_SET: "[0, 100000055, 0, 0, 0, 0]"
+  ESTATE_ID: 100000056
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Sat Apr 27 09:28:05 2019\""
+  LAST_LOGIN: "\"Sat Apr 27 09:28:05 2019\""
+  ACCOUNT_ID: "\"phanegan2\""
+  ACCESS_LEVEL: 700
+  LAST_LOGIN_TS: 1556371685
+  CHAT_SETTINGS: "[1, 1]"

@@ -1,0 +1,90 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{4400001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x163379B8>, 401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16337C38>, 420001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16337B98>, 4600001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16337760>, 430001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16337AA8>, 4500001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16337828>}
+__handleAvatarChooserDone: 100000029, 'Tom Bumberpop', ('bss', 'ls', 'l', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 89, 27, 76, 27, 45, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x11C882B0>
+chooseFireOpenShot <function allGroupLowShot at 0x11C83FB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x11C88270>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x11C88830>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x11C882B0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x11C88830>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\margins\ClickablePopup.py", line 78, in __buttonUp
+    self.__updateClickState()
+  File "otp\margins\ClickablePopup.py", line 102, in __updateClickState
+    messenger.send(self.__clickEvent, self.__clickArgs)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\avatar\Avatar.py", line 378, in clickedNametag
+    messenger.send('clickedNametag', [self])
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\suit\DistributedBossCog.py", line 1063, in __clickedNameTag
+    FriendsListManager.FriendsListManager._FriendsListManager__handleClickedNametag(FriendsListManager.FriendsListManager, avatar)
+TypeError: unbound method __handleClickedNametag() must be called with FriendsListManager instance as first argument (got classobj instance instead)
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\margins\ClickablePopup.py", line 78, in __buttonUp
+    self.__updateClickState()
+  File "otp\margins\ClickablePopup.py", line 102, in __updateClickState
+    messenger.send(self.__clickEvent, self.__clickArgs)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\avatar\Avatar.py", line 378, in clickedNametag
+    messenger.send('clickedNametag', [self])
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\suit\DistributedBossCog.py", line 1063, in __clickedNameTag
+    FriendsListManager.FriendsListManager._FriendsListManager__handleClickedNametag(FriendsListManager.FriendsListManager, avatar)
+TypeError: unbound method __handleClickedNametag() must be called with FriendsListManager instance as first argument (got classobj instance instead)

@@ -1,0 +1,18 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 162, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "C:\Users\Nana\Documents\Toontown HD v1.3.2 Staff Build Test\toontown\toonbase\ToontownStart.py", line 145, in <module>
+    ToonBase.ToonBase()
+  File "toontown\toonbase\ToonBase.py", line 95, in __init__
+    self.loader = ToontownLoader.ToontownLoader(self)
+  File "toontown\toonbase\ToontownLoader.py", line 14, in __init__
+    self.loadingScreen = ToontownLoadingScreen.ToontownLoadingScreen()
+  File "toontown\toontowngui\ToontownLoadingScreen.py", line 14, in __init__
+    self.textures = [(loader.loadTexture('phase_3.5/maps/loading/toon.jpg'), ToontownGlobals.getInterfaceFont(), (0, 0, 0.5, 1)),
+  File "C:\Panda3D-1.10.0\direct\showbase\Loader.py", line 623, in loadTexture
+    raise IOError, message
+IOError: Could not load texture: phase_3.5/maps/loading/toon.jpg

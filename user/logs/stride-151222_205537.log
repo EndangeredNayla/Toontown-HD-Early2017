@@ -1,0 +1,71 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16B91C38>}
+__handleAvatarChooserDone: 100000026, 'Goku', ('mls', 'ss', 'm', 'm', (0.17, 0.48, 0.8, 1.0), (1.0, 1.0, 1.0, 1.0), (0.17, 0.48, 0.8, 1.0), (0.17, 0.48, 0.8, 1.0), 4, 5, 4, 5, 5, 15), 0
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16B91C38>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16B91C38>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16B91C38>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16B91C38>}
+__handleAvatarChooserDone: 100000029, 'Tom', ('css', 'ms', 'm', 'm', (0.74, 1.0, 0.84, 1.0), (1.0, 1.0, 1.0, 1.0), (0.74, 1.0, 0.84, 1.0), (0.74, 1.0, 0.84, 1.0), 10, 11, 0, 11, 2, 0), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+Exception occurred while processing Func-__lightDecorationOn__-92 of Sequence-44:
+Sequence-44:
+  0.000 Sequence-44 {
+  0.000   LerpColorScaleInterval-52: color_scale to 0.7 0.7 0.8 1 dur 0.1
+  0.100   *Func-startSnowySky-91
+  0.100   *Func-__lightDecorationOn__-92
+  0.100 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 117, in __doPythonCallbacks
+    ival.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\safezone\Playground.py", line 178, in __lightDecorationOn__
+    geom = base.cr.playGame.hood.loader.geom
+AttributeError: 'NoneType' object has no attribute 'loader'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 117, in __doPythonCallbacks
+    ival.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\safezone\Playground.py", line 178, in __lightDecorationOn__
+    geom = base.cr.playGame.hood.loader.geom
+AttributeError: 'NoneType' object has no attribute 'loader'

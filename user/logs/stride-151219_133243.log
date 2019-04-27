@@ -1,0 +1,32 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{4400001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x168899B8>, 401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16889C38>, 420001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16889B98>, 4600001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16889760>, 430001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16889AA8>, 4500001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16889828>}
+__handleAvatarChooserDone: 100000029, 'Tom Bumberpop', ('css', 'ls', 'l', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 89, 27, 76, 27, 45, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna

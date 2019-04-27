@@ -1,0 +1,43 @@
+<HTA:application
+    icon = "TTHD.ico"
+>
+<head>
+<bgsound src="TTHDTheme.mp3" loop="0"> 
+<style type="text/css">
+<!--
+body {cursor: url('TTHDCursor.cur');}
+-->
+</style>
+</head>
+<body background="Background.jpg">
+<center><img src="Logo.png"></center></a>
+<center><h1>Welcome to Toontown HD's Launcher!</center></h1>
+<title>Toontown HD's Launcher</title>
+
+<script language="VBScript">
+    Sub Window_onLoad
+      window.resizeTo 1024,700
+    End Sub
+    Sub Launcher
+        Dim objShell
+        set objShell = CreateObject ( "WScript.Shell" )
+        set sysenv = objShell.Environment ( "PROCESS" )
+	    sysenv("TTS_PLAYCOOKIE") = username.Value&":"&password.Value
+        sysenv("TTS_GAMESERVER") = "25.10.74.106"
+        objShell.currentDirectory = objShell.currentDirectory&"\.."
+        objShell.Run("C:/Panda3D-1.10.0/python/ppython.exe -m toontown.toonbase.ToontownStart")
+        set objShell = Nothing
+        Me.Close
+    End Sub
+</script>
+<body>
+<center>
+TTHD Username: <input type="text" name="username" size=32>
+<br>
+TTHD Password: <input type="password" name="password" size=32>
+        <div class="col-lg-12 text-center">
+	  <button name="run_button" onClick="Launcher" value="Go" class="btn btn-primary btn-success">Play</button>
+</html>
+
+<FORM>
+<center><INPUT Type="BUTTON" VALUE="Our Website" ONCLICK="window.location.href='http://tombumberpop.wixsite.com/toontownhd'">

@@ -1,0 +1,584 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x261FDAF8>}
+__handleAvatarChooserDone: 100000036, 'Tom Bumberpop (Mod)', ('css', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 66, 27, 55, 27, 17, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_MM.pdna
+Reading DNA file... phase_6/dna/winter_storage_MM.pdna
+Reading DNA file... phase_6/dna/storage_MM_sz.pdna
+Reading DNA file... phase_6/dna/minnies_melody_land_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_6/dna/storage_MM_sz.pdna
+Reading DNA file... phase_6/dna/minnies_melody_land_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at -2 -7.9125 -0.0348814
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at -2 38.5736 0.132845
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at -2 51.3199 4.95168
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl2 []
+  at 33.0077 111.831 4.95373
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -38.8865 181.178 12.6208
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -40.879 181.236 12.7694
+  normal 0.421613 9.26799e-005 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -53.6413 181.084 17.6199
+  normal 0 6.5559e-005 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl4 []
+  at -113.929 207.499 17.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/NPW.cRayNode
+  into render/stage401023560/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl4 []
+  at -141.402 237.271 17.619
+  normal 0 0 1
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/NPW.cRayNode
+  into render/stage401023560/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl4 []
+  at -174.893 275.697 17.619
+  normal 0 0 1
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl4 []
+  at -174.989 275.175 17.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl4 []
+  at -179.212 261.237 17.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -248.047 208.292 17.6265
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -250.996 208.051 18.0343
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -263.784 207.006 22.6166
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl6 []
+  at -323.002 178.867 22.6101
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -393.573 111.562 30.2963
+  normal 0.0012142 0 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -393.565 109.03 30.4682
+  normal 0.00110174 0.420737 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -394.982 96.388 35.2872
+  normal 0.000597282 0.000218785 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023560/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at -363.087 36.2444 35.1561
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at -2 -9.9125 -0.0339642
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl1 []
+  at -2 38.5148 0.15583
+  normal -0.00110178 -0.420737 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl1 []
+  at -2 51.4938 4.95886
+  normal -0.000597282 -0.000218784 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl2 []
+  at -26.0153 111.311 4.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -30.7301 380.957 4.95259
+  normal 0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -30.6031 382.716 5.00319
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -29.6604 395.774 9.95153
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl4 []
+  at 2.67104 456.241 9.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29999, 1.5)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+### newVec3 =  LVector3f(2, 6.29999, 0.375)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl5 []
+  at -3.44322 725.118 9.9528
+  normal 0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl5 []
+  at -3.44322 727.7 10.2287
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl5 []
+  at -4.23154 739.926 14.9518
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl6 []
+  at 29.7207 800.001 14.9506
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at 26.0107 934.8 14.9417
+  normal 0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at 25.7036 937.037 15.0796
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at 22.3212 949.643 19.941
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401023759/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at 51.2156 1010.05 19.8193
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at -1 -10.9125 -0.0325437
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl1 []
+  at -1 38.2239 0.0221343
+  normal -0.00110178 -0.420737 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl1 []
+  at -1 50.9275 4.95933
+  normal -0.000597282 -0.000218784 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl2 []
+  at -31.437 111.326 4.95213
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -97.1739 182.193 12.6207
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -99.7278 182.259 12.7875
+  normal 0.421613 9.26799e-005 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -113.097 180.074 17.62
+  normal 0 6.5559e-005 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl4 []
+  at -173.086 209.178 17.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -441.636 211.675 17.6402
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -444.34 212.539 17.8963
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -457.025 209.067 22.628
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl6 []
+  at -516.579 178.128 22.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -651.667 178.455 22.61
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -653.658 178.408 22.7185
+  normal 0.421613 9.26799e-005 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -660.721 178.241 22.6101
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -666.23 175.061 27.6093
+  normal 0 6.5559e-005 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop (Mod)-100000036/camFloorRayNode/ccRay2Node
+  into render/stage401024000/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at -726.665 204.752 27.4877
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2.00006, 6.30005, 1.5)
+### newVec3 =  LVector3f(2.00006, 6.30005, 0)
+### newVec3 =  LVector3f(2.00006, 6.30005, 0.375)
+### newVec3 =  LVector3f(2.00006, 6.30005, 0)
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_GS.pdna
+Reading DNA file... phase_6/dna/storage_GS_sz.pdna
+Reading DNA file... phase_6/dna/goofy_speedway_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_GS.pdna
+Reading DNA file... phase_6/dna/storage_GS_sz.pdna
+Reading DNA file... phase_6/dna/goofy_speedway_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/winter_storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+Item discardItem
+adjusting item index -1
+exiting due to lack of items
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/winter_storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/winter_storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/winter_storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_OZ.pdna
+Reading DNA file... phase_6/dna/storage_OZ_sz.pdna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.pdna
+TIMER startTime 711
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_GZ.pdna
+Reading DNA file... phase_6/dna/storage_GZ_sz.pdna
+Reading DNA file... phase_6/dna/golf_zone_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2

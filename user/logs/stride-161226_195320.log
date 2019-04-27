@@ -1,0 +1,25 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 162, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "C:\Panda3D-1.10.0\python\lib\runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "C:\Toontown HD v1.2.9 Staff Build Test\toontown\toonbase\ToontownStart.py", line 171, in <module>
+    from toontown.distributed import ToontownClientRepository
+  File "toontown\distributed\ToontownClientRepository.py", line 32, in <module>
+    from toontown.friends import FriendsListPanel
+  File "toontown\friends\FriendsListPanel.py", line 4, in <module>
+    from toontown.toon import ToonAvatarPanel
+  File "toontown\toon\ToonAvatarPanel.py", line 12, in <module>
+    import ToonAvatarDetailPanel
+  File "toontown\toon\ToonAvatarDetailPanel.py", line 9, in <module>
+    import DistributedToon
+  File "toontown\toon\DistributedToon.py", line 18, in <module>
+    import TTEmote
+  File "toontown\toon\TTEmote.py", line 61
+    track = Sequence(Func(toon.play, 'jump'), Func(toon.normalEyes), Func(toon.blinkEyes))
+    ^
+IndentationError: unexpected indent

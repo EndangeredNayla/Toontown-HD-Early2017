@@ -1,0 +1,451 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x15F97C38>, 420000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x15F97AA8>, 4300001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x15F97B98>}
+__handleAvatarChooserDone: 100000032, 'Tom Bumberpop', ('css', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 78, 27, 67, 27, 17, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 16
+    b1 = DirectButton(text = ("Raid", "Raid", "Raid", "Raid"), scale=.06, 
+                                                                         ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 17
+    direct.gui.OnscreenText import OnscreenText
+                                 ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 2
+    base.localAvatar.setEmoteAccess([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24])﻿
+                                                                                                     ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 2
+    base.localAvatar.setEmoteAccess([1,2,3,4,5])﻿
+                                                ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'toon' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'toon' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'toon' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'toon' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'toon' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'toon' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.sendUpdate("playSplashEffect", [0, 0, 0])﻿
+                                                              ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.sendUpdate("playSplashEffect", [0, 0, 0])﻿
+                                                              ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.sendUpdate("playSplashEffect", [0, 0, 0])﻿
+                                                              ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.sendUpdate("playSplashEffect", [0, 0, 0])﻿
+                                                              ^
+SyntaxError: invalid syntax
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/winter_storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_BR_town.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_3300.pdna
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "toontown\toon\DistributedToon.py", line 244, in setDNAString
+    Toon.Toon.setDNAString(self, dnaString)
+  File "toontown\toon\Toon.py", line 577, in setDNAString
+    newDNA.makeFromNetString(dnaString)
+  File "toontown\toon\ToonDNA.py", line 2541, in makeFromNetString
+    self.torso = toonTorsoTypes[torsoIndex]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "toontown\toon\DistributedToon.py", line 244, in setDNAString
+    Toon.Toon.setDNAString(self, dnaString)
+  File "toontown\toon\Toon.py", line 577, in setDNAString
+    newDNA.makeFromNetString(dnaString)
+  File "toontown\toon\ToonDNA.py", line 2541, in makeFromNetString
+    self.torso = toonTorsoTypes[torsoIndex]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "toontown\toon\DistributedToon.py", line 244, in setDNAString
+    Toon.Toon.setDNAString(self, dnaString)
+  File "toontown\toon\Toon.py", line 577, in setDNAString
+    newDNA.makeFromNetString(dnaString)
+  File "toontown\toon\ToonDNA.py", line 2541, in makeFromNetString
+    self.torso = toonTorsoTypes[torsoIndex]
+IndexError: list index out of range
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/winter_storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DL_town.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_9100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+gardenPage Unloading
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setTrackAccess([1,1,1,1­,1,1,1])
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    2. base.localAvatar.setTrackBonusLevel((1,2,3,4,5,6,0))
+          ^
+SyntaxError: invalid syntax
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2300.pdna
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setMaxHp(467
+                                ^
+SyntaxError: unexpected EOF while parsing
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setMaxHp(467
+                                ^
+SyntaxError: unexpected EOF while parsing
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setMaxHp(467
+                                ^
+SyntaxError: unexpected EOF while parsing
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setMaxHp(467
+                                ^
+SyntaxError: unexpected EOF while parsing
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/winter_storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+__handleAvatarChooserDone: 100000032, 'Tom Bumberpop', ('css', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 78, 27, 67, 27, 17, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+gardenPage Unloading
+__handleAvatarChooserDone: 100000032, 'Tom Bumberpop', ('css', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 78, 27, 67, 27, 17, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/winter_storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+avid: 100000032, gender: m
+current top = 78,27,67,27 and  bot = 17,27,
+topsList = [8, 12, 8, 12, 34, 27, 23, 27, 148, 27, 135, 27, 66, 27, 55, 27, 47, 27, 36, 27, 62, 27, 51, 27, 109, 27, 96, 27, 143, 27, 130, 27, 8, 0, 8, 0]
+bottomsList = [7, 10, 21, 27]
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "toontown\toon\DistributedToon.py", line 244, in setDNAString
+    Toon.Toon.setDNAString(self, dnaString)
+  File "toontown\toon\Toon.py", line 577, in setDNAString
+    newDNA.makeFromNetString(dnaString)
+  File "toontown\toon\ToonDNA.py", line 2541, in makeFromNetString
+    self.torso = toonTorsoTypes[torsoIndex]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "toontown\toon\DistributedToon.py", line 244, in setDNAString
+    Toon.Toon.setDNAString(self, dnaString)
+  File "toontown\toon\Toon.py", line 577, in setDNAString
+    newDNA.makeFromNetString(dnaString)
+  File "toontown\toon\ToonDNA.py", line 2541, in makeFromNetString
+    self.torso = toonTorsoTypes[torsoIndex]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "toontown\toon\DistributedToon.py", line 244, in setDNAString
+    Toon.Toon.setDNAString(self, dnaString)
+  File "toontown\toon\Toon.py", line 577, in setDNAString
+    newDNA.makeFromNetString(dnaString)
+  File "toontown\toon\ToonDNA.py", line 2541, in makeFromNetString
+    self.torso = toonTorsoTypes[torsoIndex]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "toontown\toon\DistributedToon.py", line 244, in setDNAString
+    Toon.Toon.setDNAString(self, dnaString)
+  File "toontown\toon\Toon.py", line 577, in setDNAString
+    newDNA.makeFromNetString(dnaString)
+  File "toontown\toon\ToonDNA.py", line 2541, in makeFromNetString
+    self.torso = toonTorsoTypes[torsoIndex]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "toontown\toon\DistributedToon.py", line 244, in setDNAString
+    Toon.Toon.setDNAString(self, dnaString)
+  File "toontown\toon\Toon.py", line 577, in setDNAString
+    newDNA.makeFromNetString(dnaString)
+  File "toontown\toon\ToonDNA.py", line 2541, in makeFromNetString
+    self.torso = toonTorsoTypes[torsoIndex]
+IndexError: list index out of range
+avid: 100000032, gender: m
+current top = 78,27,67,27 and  bot = 17,27,
+topsList = [8, 12, 8, 12, 34, 27, 23, 27, 148, 27, 135, 27, 66, 27, 55, 27, 47, 27, 36, 27, 62, 27, 51, 27, 109, 27, 96, 27, 143, 27, 130, 27, 8, 0, 8, 0]
+bottomsList = [7, 10, 21, 27]
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'TTGloves' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'TTGloves' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.find('**/hands'­).setColor(1,0000,0)
+                                    ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.find('**/hands'­).setColor(1,0000,0)
+                                    ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.find('**/hands'­).setColor(1,0000,0)
+                                    ^
+SyntaxError: invalid syntax
+entered wait for zone redirect
+entered wait for set zone response - 2
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.10.0\direct\gui\DirectButton.py", line 103, in commandFunc
+    apply(self['command'], self['extraArgs'])
+  File "toontown\catalog\MailboxScreen.py", line 229, in __makeDiscardInterface
+    itemText = TTLocalizer.MailBoxDiscardVerify % self.getItemName(item)
+  File "toontown\catalog\MailboxScreen.py", line 480, in getItemName
+    return item.getName()
+  File "toontown\catalog\CatalogEmoteItem.py", line 38, in getName
+    return OTPLocalizer.EmoteList[self.emoteIndex]
+IndexError: list index out of range

@@ -1,0 +1,130 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16608990>}
+__handleAvatarChooserDone: 100000015, 'Test Toon', ('fss', 'ls', 'l', 'm', (1.0, 1.0, 1.0, 1.0), (0.0, 0.63, 0.25, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 4, 1, 4, 1, 1, 4), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/winter_storage_DL.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DL_town.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_9200.pdna
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 130, in __doPythonCallbacks
+    self.MyEventmanager.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 105, in processEvent
+    messenger.send(eventName)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\toon\Toon.py", line 1836, in finishTeleportOut
+    callback(*extraArgs)
+  File "toontown\town\Street.py", line 271, in __teleportOutDone
+    messenger.send(self.doneEvent)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\town\TownLoader.py", line 133, in streetDone
+    messenger.send(self.doneEvent)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\hood\ToonHood.py", line 101, in handleTownLoaderDone
+    self.fsm.request('quietZone', [doneStatus])
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\hood\ToonHood.py", line 93, in exitTownLoader
+    self.loader.unload()
+  File "toontown\town\DLTownLoader.py", line 21, in unload
+    TownLoader.TownLoader.unload(self)
+  File "toontown\town\TownLoader.py", line 82, in unload
+    self.townBattle.cleanup()
+  File "toontown\town\TownBattle.py", line 150, in cleanup
+    panel.cleanup()
+  File "toontown\town\TownBattleCogPanel.py", line 26, in cleanup
+    self.cleanupHead()
+  File "toontown\town\TownBattleCogPanel.py", line 38, in cleanupHead
+    if self.suitHead:
+AttributeError: 'TownBattleCogPanel' object has no attribute 'suitHead'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\ShowBase.py", line 1829, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 94, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\IntervalManager.py", line 130, in __doPythonCallbacks
+    self.MyEventmanager.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 105, in processEvent
+    messenger.send(eventName)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\toon\Toon.py", line 1836, in finishTeleportOut
+    callback(*extraArgs)
+  File "toontown\town\Street.py", line 271, in __teleportOutDone
+    messenger.send(self.doneEvent)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\town\TownLoader.py", line 133, in streetDone
+    messenger.send(self.doneEvent)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\hood\ToonHood.py", line 101, in handleTownLoaderDone
+    self.fsm.request('quietZone', [doneStatus])
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\hood\ToonHood.py", line 93, in exitTownLoader
+    self.loader.unload()
+  File "toontown\town\DLTownLoader.py", line 21, in unload
+    TownLoader.TownLoader.unload(self)
+  File "toontown\town\TownLoader.py", line 82, in unload
+    self.townBattle.cleanup()
+  File "toontown\town\TownBattle.py", line 150, in cleanup
+    panel.cleanup()
+  File "toontown\town\TownBattleCogPanel.py", line 26, in cleanup
+    self.cleanupHead()
+  File "toontown\town\TownBattleCogPanel.py", line 38, in cleanupHead
+    if self.suitHead:
+AttributeError: 'TownBattleCogPanel' object has no attribute 'suitHead'

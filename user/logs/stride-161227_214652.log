@@ -1,0 +1,86 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x26DFBC60>}
+__handleAvatarChooserDone: 100000050, 'Flippy', ('dss', 'ms', 'm', 'm', (0.34, 0.82, 0.95, 1.0), (1.0, 1.0, 1.0, 1.0), (0.34, 0.82, 0.95, 1.0), (0.34, 0.82, 0.95, 1.0), 4, 3, 4, 3, 7, 12), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\speedchat\SCTerminal.py", line 90, in onMouseClick
+    self.handleSelect()
+  File "otp\speedchat\SCStaticTextTerminal.py", line 19, in handleSelect
+    SCTerminal.handleSelect(self)
+  File "otp\speedchat\SCTerminal.py", line 54, in handleSelect
+    messenger.send(self.getEventName(SCTerminalLinkedEmoteEvent), [self.linkedEmote])
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\chat\TTChatInputSpeedChat.py", line 457, in handleLinkedEmote
+    lt.b_setEmoteState(emoteId, animMultiplier=lt.animMultiplier)
+  File "toontown\toon\DistributedToon.py", line 743, in b_setEmoteState
+    self.setEmoteState(animIndex, animMultiplier)
+  File "toontown\toon\DistributedToon.py", line 760, in setEmoteState
+    self.doEmote(animIndex, animMultiplier, ts, callback, extraArgs)
+  File "toontown\toon\Toon.py", line 2094, in doEmote
+    self.emoteTrack, duration = Emote.globalEmote.doEmote(self, emoteIndex, ts)
+  File "toontown\toon\TTEmote.py", line 497, in doEmote
+    track, duration, exitTrack = func(toon)
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 52, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 46, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.10.0\direct\showbase\EventManager.py", line 103, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\speedchat\SCTerminal.py", line 90, in onMouseClick
+    self.handleSelect()
+  File "otp\speedchat\SCStaticTextTerminal.py", line 19, in handleSelect
+    SCTerminal.handleSelect(self)
+  File "otp\speedchat\SCTerminal.py", line 54, in handleSelect
+    messenger.send(self.getEventName(SCTerminalLinkedEmoteEvent), [self.linkedEmote])
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 326, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\chat\TTChatInputSpeedChat.py", line 457, in handleLinkedEmote
+    lt.b_setEmoteState(emoteId, animMultiplier=lt.animMultiplier)
+  File "toontown\toon\DistributedToon.py", line 743, in b_setEmoteState
+    self.setEmoteState(animIndex, animMultiplier)
+  File "toontown\toon\DistributedToon.py", line 760, in setEmoteState
+    self.doEmote(animIndex, animMultiplier, ts, callback, extraArgs)
+  File "toontown\toon\Toon.py", line 2094, in doEmote
+    self.emoteTrack, duration = Emote.globalEmote.doEmote(self, emoteIndex, ts)
+  File "toontown\toon\TTEmote.py", line 497, in doEmote
+    track, duration, exitTrack = func(toon)
+TypeError: 'NoneType' object is not iterable

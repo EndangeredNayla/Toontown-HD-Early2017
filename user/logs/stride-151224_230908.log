@@ -1,0 +1,330 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{440000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x172409B8>, 401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17240C38>, 5032705: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17240AA8>, 42000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17240B98>}
+__handleAvatarChooserDone: 100000031, 'Tom Bumberpop (Mod)', ('css', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 1, 5, 1, 5, 1, 19), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_6/dna/storage_OZ.pdna
+Reading DNA file... phase_6/dna/storage_OZ_sz.pdna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.pdna
+TIMER startTime 324
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+SET TABLE STATE
+ GETTING 2 None 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/winter_storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+adjusting item index -1
+adjusting item index -1
+adjusting item index -1
+adjusting item index -1
+adjusting item index -1
+adjusting item index -1
+exiting due to lack of items
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/winter_storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.b_setAnimState(('FallDown'))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.b_setAnimState(('FallDown'))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.b_setAnimState(('FallDown'))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.b_setAnimState(('OpenBook'))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.b_setAnimState(('OpenBook'))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.b_setAnimState(('OpenBook'))
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.b_setAnimState(('CogThiefRunning'))
+    ^
+IndentationError: unexpected indent
+entered wait for zone redirect
+entered wait for set zone response - 2
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setEmoteAccess([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,0,0,0,0,21,22,23,24,25]
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setEmoteAccess([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,0,0,0,0,21,22,23,24,25])
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setEmoteAccess([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,0,0,0,0,21,22,23,24,25])
+    ^
+IndentationError: unexpected indent
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.loop('shrug')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.loop('shrug')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.loop('shrug')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.loop('shrug')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.loop('shrug')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.loop('laugh')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.loop('laugh')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.loop('laugh')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setMaxNPCFriends(5000)
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setMaxNPCFriends(5000)
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setMaxNPCFriends(5000)
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setMaxCarry('49000')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setMaxCarry('23')
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setEmoteState(22,1)
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.showAngryMuzzle()
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.showAngryMuzzle()
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.showAngryMuzzle()
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.showSadMuzzle()
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.showSadMuzzle()
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.showSadMuzzle()
+    ^
+IndentationError: unexpected indent
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.talkAssistant.sendOpenTalk('NEXTIME! DON'T EAT THE STUPID COOKIES WITHOUT MY PREMISSION SIR!')
+                                                  ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.talkAssistant.sendOpenTalk('NEXTIME! DON'T EAT THE STUPID COOKIES WITHOUT MY PREMISSION SIR!')
+                                                  ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.talkAssistant.sendOpenTalk('NEXTIME! DON'T EAT THE STUPID COOKIES WITHOUT MY PREMISSION SIR!')
+                                                  ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.talkAssistant.sendOpenTalk('NEXTIME! DON'T EAT THE STUPID COOKIES WITHOUT MY PREMISSION SIR!')
+                                                  ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.talkAssistant.sendOpenTalk('NEXTIME! DON'T EAT THE STUPID COOKIES WITHOUT MY PREMISSION SIR!')
+                                                  ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.talkAssistant.sendOpenTalk('NEXTIME! DON'T EAT THE STUPID COOKIES WITHOUT MY PREMISSION SIR!')
+                                                  ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.talkAssistant.sendOpenTalk('NEXTIME! DON'T EAT THE STUPID COOKIES WITHOUT MY PREMISSION SIR!')
+                                                  ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.b_setSC(20281)# I'll have to make my point more clear.
+    ^
+IndentationError: unexpected indent

@@ -1,0 +1,123 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16BBAC38>}
+__handleAvatarChooserDone: 100000029, 'Tom', ('css', 'ms', 'm', 'm', (0.74, 1.0, 0.84, 1.0), (1.0, 1.0, 1.0, 1.0), (0.74, 1.0, 0.84, 1.0), (0.74, 1.0, 0.84, 1.0), 10, 11, 0, 11, 2, 0), 0
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16BBAC38>}
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(2, 5.3, 1.5)
+### newVec3 =  LVector3f(2, 5.3, 0)
+### newVec3 =  LVector3f(2, 5.3, 0.375)
+### newVec3 =  LVector3f(2, 5.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(0, 5, 1.5)
+### newVec3 =  LVector3f(0, 5, 0)
+### newVec3 =  LVector3f(0, 5, 0.375)
+### newVec3 =  LVector3f(0, 5, 0)
+### newVec3 =  LVector3f(0, 5, 1.5)
+### newVec3 =  LVector3f(0, 5, 0)
+### newVec3 =  LVector3f(0, 5, 0.375)
+### newVec3 =  LVector3f(0, 5, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(0, 6, 1.5)
+### newVec3 =  LVector3f(0, 6, 0)
+### newVec3 =  LVector3f(0, 6, 0.375)
+### newVec3 =  LVector3f(0, 6, 0)
+### newVec3 =  LVector3f(0, 6, 1.5)
+### newVec3 =  LVector3f(0, 6, 0)
+### newVec3 =  LVector3f(0, 6, 0.375)
+### newVec3 =  LVector3f(0, 6, 0)
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2200.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/winter_storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+adjusting item index -1
+adjusting item index -1
+Item discardItem
+adjusting item index -1
+exiting due to lack of items
+exiting due to lack of items
+Cannon Rot:-2.08951279925 Angle:22.4597693122
+Cannon Rot:-2.08951279925 Angle:18.5837813492
+start PosLPoint3f(-51.2988, -99.3922, 4.5338) HprLVecBase3f(-26.09, -26.42, 0)
+disable controls
+stopped
+enable controls
+Cannon Rot:-4.5322592978 Angle:24.1706137744
+Cannon Rot:-4.5322592978 Angle:26.3887872335
+start PosLPoint3f(-51.2329, -99.7779, 5.2889) HprLVecBase3f(-28.53, -18.61, 0)
+disable controls
+stopped
+enable controls
+Cannon Rot:-21.5362947842 Angle:36.4518408612
+Cannon Rot:-21.5362947842 Angle:34.3184182914
+start PosLPoint3f(58.7969, 58.5233, 5.30492) HprLVecBase3f(149.66, -10.68, 0)
+disable controls
+stopped
+enable controls
+Cannon Rot:-10.5165921684 Angle:37.9086834053
+start PosLPoint3f(34.8665, 1.44382, 13.8086) HprLVecBase3f(90.68, -7.09, 2.36597e-006)
+disable controls
+stopped
+enable controls
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+gardenPage Unloading
+__handleAvatarChooserDone: 100000020, 'Vibrant Cat', ('cls', 'ls', 'm', 'm', (0.96, 0.69, 0.69, 1.0), (1.0, 1.0, 1.0, 1.0), (0.96, 0.69, 0.69, 1.0), (0.96, 0.69, 0.69, 1.0), 18, 1, 12, 1, 6, 9), 5

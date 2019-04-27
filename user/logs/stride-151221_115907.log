@@ -1,0 +1,229 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16518AD0>}
+__handleAvatarChooserDone: 100000015, 'Test Toon', ('css', 'ls', 'l', 'm', (0.67, 0.92, 1.0, 1.0), (0.0, 0.63, 0.25, 1.0), (0.67, 0.92, 1.0, 1.0), (0.67, 0.92, 1.0, 1.0), 4, 1, 4, 1, 1, 4), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_BR.pdna
+Reading DNA file... phase_8/dna/storage_BR_sz.pdna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2300.pdna
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16518AD0>}
+__handleAvatarChooserDone: 100000015, 'Test Toon', ('css', 'ls', 'm', 'm', (0.67, 0.92, 1.0, 1.0), (0.0, 0.63, 0.25, 1.0), (0.67, 0.92, 1.0, 1.0), (0.67, 0.92, 1.0, 1.0), 4, 1, 4, 1, 1, 4), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/winter_storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+adjusting item index -1
+adjusting item index -1
+Item discardItem
+adjusting item index -1
+exiting due to lack of items
+exiting due to lack of items
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_5/dna/storage_TT_town.pdna
+Reading DNA file... phase_5/dna/toontown_central_2300.pdna
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setTrackAccess((1,2,3,4­,5,6,7))
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setTrackBonusLevel((1,2­,3,4,5,6,7))
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "toontown\toon\DistributedToon.py", line 280, in setExperience
+    self.experience = Experience.Experience(experience, self)
+  File "toontown\toon\Experience.py", line 19, in __init__
+    self.experience = self.makeFromNetString(expStr)
+  File "toontown\toon\Experience.py", line 39, in makeFromNetString
+    dataList.append(dgi.getUint16())
+AssertionError: _current_index + sizeof(tempvar) <= _datagram->get_length() at line 203 of c:\users\john\desktop\panda3d-master\built\include\datagramIterator.I
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setTrackAccess((1,2,3,4­,5,6,7))
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setTrackAccess((1,2,3,4­,5,6,7))
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setTrackAccess((1,2,3,4­,5,6,7))
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setTrackAccess((1,2,3,4­,5,6,7))
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setEmoteAccess([1,1,1,1­,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1­,1,1,1])
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setEmoteAccess([1,1,1,1­,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1­,1,1,1])
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1
+    base.localAvatar.setEmoteAccess([1,1,1,1­,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1­,1,1,1])
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 2
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 2
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 2
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 2
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 2
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 2
+    base.localAvatar.setHpr(999,999,999,999,­999,999,999,999,999,999)
+                                            ^
+SyntaxError: invalid syntax
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.2.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+TypeError: setTrackProgress() takes exactly 3 arguments (2 given)
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2

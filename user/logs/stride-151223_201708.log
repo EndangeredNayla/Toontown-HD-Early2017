@@ -1,0 +1,67 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16AD1AA8>}
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+{}
+{}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16D5E8C8>}
+__handleAvatarChooserDone: 100000036, 'Tom Bumberpop', ('css', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 4, 11, 4, 11, 5, 11), 5
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "toontown\hood\QuietZoneState.py", line 149, in handleWaitForQuietZoneResponse
+    base.cr.handleQuietZoneUpdateField(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 896, in handleQuietZoneUpdateField
+    OTPClientRepository.OTPClientRepository.handleUpdateField(self, di)
+  File "C:\Panda3D-1.10.0\direct\distributed\ClientRepositoryBase.py", line 438, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "C:\Panda3D-1.10.0\direct\distributed\ClientRepositoryBase.py", line 446, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\ai\NewsManager.py", line 28, in setActiveHolidays
+    self.startHoliday(id, True)
+  File "toontown\ai\NewsManager.py", line 42, in startHoliday
+    self.startSpecialHoliday(id)
+  File "toontown\ai\NewsManager.py", line 65, in startSpecialHoliday
+    base.localAvatar.chatMgr.chatInputSpeedChat.addWinterMenu()
+AttributeError: 'LocalToon' object has no attribute 'chatMgr'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "toontown\hood\QuietZoneState.py", line 149, in handleWaitForQuietZoneResponse
+    base.cr.handleQuietZoneUpdateField(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 896, in handleQuietZoneUpdateField
+    OTPClientRepository.OTPClientRepository.handleUpdateField(self, di)
+  File "C:\Panda3D-1.10.0\direct\distributed\ClientRepositoryBase.py", line 438, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "C:\Panda3D-1.10.0\direct\distributed\ClientRepositoryBase.py", line 446, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\ai\NewsManager.py", line 28, in setActiveHolidays
+    self.startHoliday(id, True)
+  File "toontown\ai\NewsManager.py", line 42, in startHoliday
+    self.startSpecialHoliday(id)
+  File "toontown\ai\NewsManager.py", line 65, in startSpecialHoliday
+    base.localAvatar.chatMgr.chatInputSpeedChat.addWinterMenu()
+AttributeError: 'LocalToon' object has no attribute 'chatMgr'

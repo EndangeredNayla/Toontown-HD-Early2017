@@ -1,0 +1,19 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x261C99B8>}
+__handleAvatarChooserDone: 100000044, 'Super Mario', ('dsl', 'ls', 'm', 'm', (0.99, 0.48, 0.16, 1.0), (1.0, 1.0, 1.0, 1.0), (0.99, 0.48, 0.16, 1.0), (0.99, 0.48, 0.16, 1.0), 8, 12, 8, 12, 4, 12), 4
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_3.5/dna/storage_tutorial.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_3.5/dna/tutorial_street.pdna
+Reading DNA file... phase_3.5/dna/tutorial_street.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2

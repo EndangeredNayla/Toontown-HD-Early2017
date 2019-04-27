@@ -1,0 +1,11 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{430000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x14FC8AA8>, 401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x14FC8C38>, 105032705: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x14FC89B8>, 420000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x14FC8B98>}
+__handleAvatarChooserDone: 100000023, 'Tom Bumberpop', ('css', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 54, 27, 54, 27, 27, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna

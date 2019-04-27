@@ -1,0 +1,208 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16DB1C38>, 5032705: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16DB1AA8>, 42000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16DB1B98>}
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/winter_storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT.pdna
+Reading DNA file... phase_4/dna/winter_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.3.0\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 306, in send
+    acceptorDict = self.__callbacks.get(event)
+TypeError: unhashable type: 'list'
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/winter_storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+TIMER startTime 324
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1026, in handlePlayGame
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1164, in handleMessageType
+    self.gotInterestDoneMessage(di)
+  File "otp\distributed\OTPClientRepository.py", line 1188, in gotInterestDoneMessage
+    self.__playBackGenerates(handle)
+  File "otp\distributed\OTPClientRepository.py", line 1300, in __playBackGenerates
+    self.__doGenerate(doId, parentId, zoneId, classId, di, other)
+  File "otp\distributed\OTPClientRepository.py", line 1344, in __doGenerate
+    self.generateWithRequiredOtherFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.10.0\direct\distributed\ClientRepositoryBase.py", line 313, in generateWithRequiredOtherFields
+    distObj.updateRequiredOtherFields(dclass, di)
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 351, in updateRequiredOtherFields
+    self.announceGenerate()
+  File "toontown\safezone\DistributedPicnicBasket.py", line 60, in announceGenerate
+    self.seats.append(self.picnicTable.find('**/*seat%d' % (i + 1)))
+AssertionError: !is_empty() at line 435 of panda/src/pgraph/nodePath.cxx
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1224, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1026, in handlePlayGame
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1164, in handleMessageType
+    self.gotInterestDoneMessage(di)
+  File "otp\distributed\OTPClientRepository.py", line 1188, in gotInterestDoneMessage
+    self.__playBackGenerates(handle)
+  File "otp\distributed\OTPClientRepository.py", line 1300, in __playBackGenerates
+    self.__doGenerate(doId, parentId, zoneId, classId, di, other)
+  File "otp\distributed\OTPClientRepository.py", line 1344, in __doGenerate
+    self.generateWithRequiredOtherFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.10.0\direct\distributed\ClientRepositoryBase.py", line 313, in generateWithRequiredOtherFields
+    distObj.updateRequiredOtherFields(dclass, di)
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 351, in updateRequiredOtherFields
+    self.announceGenerate()
+  File "toontown\safezone\DistributedPicnicBasket.py", line 60, in announceGenerate
+    self.seats.append(self.picnicTable.find('**/*seat%d' % (i + 1)))
+AssertionError: !is_empty() at line 435 of panda/src/pgraph/nodePath.cxx

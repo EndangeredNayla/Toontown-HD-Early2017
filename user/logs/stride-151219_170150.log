@@ -1,0 +1,539 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16B1FC38>, 43001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16B1FAA8>, 440000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16B1F9B8>, 420001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16B1FB98>}
+__handleAvatarChooserDone: 100000029, 'Tom Bumberpop', ('rss', 'ms', 'm', 'm', (1.0, 1.0, 1.0, 1.0), (0.93, 0.26, 0.28, 1.0), (1.0, 1.0, 1.0, 1.0), (1.0, 1.0, 1.0, 1.0), 89, 27, 76, 27, 45, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'TTChar' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'TTChar' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'ToontownDistrict' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'ToontownDistrict' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'ToontownDistrict' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'ToontownDistrict' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'ToontownDistrict' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'T_displayTalkNormal' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'T_displayTalkNormal' is not defined
+Traceback (most recent call last):
+  File "C:\Toontown HD Test v1.1.5\toontown\toonbase\ToontownStart.py", line 50, in __inject_wx
+    exec(code, globals())
+  File "<string>", line 1, in <module>
+NameError: name 'T_displayTalkNormal' is not defined
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/ZoneEntity-0/-PandaNode/Z03a_ALL/Collsion/stageFloorColl0 []
+  at -1 -15.45 -0.0304627
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl1 []
+  at -2.381 41.2754 -0.047204
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl1 []
+  at -7.98767 52.2768 4.95207
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/ZoneEntity-0/-PandaNode/Z08_ALL/Z08/boiler_room/collsion_boiler_room/stageFloorColl2 []
+  at 31.401 111.831 4.92403
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/ZoneEntity-0/-PandaNode/Z08_ALL/Z08/boiler_room/collsion_boiler_room/stageFloorColl2 []
+  at 39.893 241.712 5.36053
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/ZoneEntity-0/-PandaNode/Z08_ALL/Z08/boiler_room/collsion_boiler_room/stageFloorColl2 []
+  at 63.4408 241.395 15.2658
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/ZoneEntity-0/-PandaNode/Z08_ALL/Z08/boiler_room/collsion_boiler_room/stageFloorColl2 []
+  at 61.7325 238.056 15.2343
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/ZoneEntity-0/-PandaNode/Z08_ALL/Z08/boiler_room/collsion_boiler_room/stageFloorColl2 []
+  at 58.2453 230.377 4.91689
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl3 []
+  at 111.926 181.945 15.8502
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl3 []
+  at 123.758 186.289 20.8493
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 183.818 154.823 20.8482
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl5 []
+  at 256.65 216.651 28.5403
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl5 []
+  at 255.645 219.816 29.0211
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl5 []
+  at 256.769 222.149 28.5404
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl5 []
+  at 254.155 232.88 33.5266
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl6 []
+  at 220.859 292.291 33.5177
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl7 []
+  at 154.489 362.153 41.2043
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl7 []
+  at 151.673 361.86 41.864
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl7 []
+  at 138.861 364.514 46.1958
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47612/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at 79.4037 329.138 46.0642
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/ZoneEntity-0/-PandaNode/Z03a_ALL/Collsion/stageFloorColl0 []
+  at -1 -12.05 -0.032022
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl1 []
+  at -5.45428 41.2754 -0.046792
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl1 []
+  at -7.98924 51.3696 4.95207
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/ZoneEntity-0/-PandaNode/Z04a_ALL/Z04/lobby/collision_lobby/stageFloorColl2 []
+  at 24.1703 111.383 4.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/NPW.cRayNode
+  into render/stage47855/ZoneEntity-0/-PandaNode/Z04a_ALL/Z04/lobby/collision_lobby/stageFloorColl2 []
+  at -5.61149 214.173 4.95065
+  normal 0 0 1
+  respect_prev_transform = 1
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/NPW.cRayNode
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl3 []
+  at 23.479 245.691 4.94222
+  normal 0 0 1
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/NPW.cRayNode
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl3 []
+  at 24.7641 248.877 5.43294
+  normal 0 0 1
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl3 []
+  at 25.6674 245.736 4.94189
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/NPW.cRayNode
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl3 []
+  at 28.967 260.596 9.94051
+  normal 0 0 1
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl3 []
+  at 30.6304 249.271 5.61546
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl3 []
+  at 32.6881 251.712 4.94095
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl3 []
+  at 23.3398 262.144 9.94096
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl4 []
+  at 51.0618 321.097 9.93978
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl5 []
+  at 56.091 590.72 9.94168
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl5 []
+  at 52.6142 593.424 10.4553
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeLR.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl5 []
+  at 49.862 606.28 14.9411
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/ZoneEntity-0/-PandaNode/Z04a_ALL/Z04/lobby/collision_lobby/stageFloorColl6 []
+  at 82.8369 665.768 14.9398
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl7 []
+  at 84.017 800.33 14.9471
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl7 []
+  at 83.6121 803.03 15.4816
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/LB_connector_7cubeL2.egg/-PandaNode/connector_7cubeL/collison/stageFloorColl7 []
+  at 84.979 816.112 19.9384
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Tom Bumberpop-100000029/camFloorRayNode/ccRay2Node
+  into render/stage47855/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at 48.7386 876.419 19.8084
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 353, in __taskChainDispatch
+    self.__dispatch(*eventTuple)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\distributed\OTPClientRepository.py", line 1103, in lostConnection
+    self.loginFSM.request('noConnection')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\hood\CogHood.py", line 83, in exitCogHQLoader
+    self.loader.unload()
+  File "toontown\coghq\LawbotCogHQLoader.py", line 75, in unload
+    CogHQLoader.CogHQLoader.unload(self)
+  File "toontown\coghq\CogHQLoader.py", line 71, in unload
+    self.townBattle.cleanup()
+  File "toontown\town\TownBattle.py", line 150, in cleanup
+    panel.cleanup()
+  File "toontown\town\TownBattleCogPanel.py", line 26, in cleanup
+    self.cleanupHead()
+  File "toontown\town\TownBattleCogPanel.py", line 38, in cleanupHead
+    if self.suitHead:
+AttributeError: 'TownBattleCogPanel' object has no attribute 'suitHead'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 353, in __taskChainDispatch
+    self.__dispatch(*eventTuple)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\distributed\OTPClientRepository.py", line 1103, in lostConnection
+    self.loginFSM.request('noConnection')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\hood\CogHood.py", line 83, in exitCogHQLoader
+    self.loader.unload()
+  File "toontown\coghq\LawbotCogHQLoader.py", line 75, in unload
+    CogHQLoader.CogHQLoader.unload(self)
+  File "toontown\coghq\CogHQLoader.py", line 71, in unload
+    self.townBattle.cleanup()
+  File "toontown\town\TownBattle.py", line 150, in cleanup
+    panel.cleanup()
+  File "toontown\town\TownBattleCogPanel.py", line 26, in cleanup
+    self.cleanupHead()
+  File "toontown\town\TownBattleCogPanel.py", line 38, in cleanupHead
+    if self.suitHead:
+AttributeError: 'TownBattleCogPanel' object has no attribute 'suitHead'
